@@ -1,0 +1,10 @@
+23:28:21 **** Incremental Build of configuration Debug for project Hello_blinky ****
+make -j4 all 
+arm-none-eabi-size   Hello_blinky.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8704	     20	   1572	  10296	   2838	Hello_blinky.elf
+Finished building: default.size.stdout
+ 
+
+23:28:21 Build Finished. 0 errors, 0 warnings. (took 500ms)
+
